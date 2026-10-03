@@ -23,7 +23,7 @@ Turn your webcam into anime by making a frame gesture with your hands.
 - AnimeGANv2
 
 ## Run locally
-1. Clone this repo: `git clone [your repo link]`
+1. Clone this repo: `git clone [https://github.com/shivani007-ss/anime-frame-cam.git]`
 2. Open the folder in VS Code.
 3. Run it with the Live Server extension.
 
