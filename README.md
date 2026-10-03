@@ -3,7 +3,7 @@
 Turn your webcam into anime by making a frame gesture with your hands.
 
 ## Demo
-[]
+[http://127.0.0.1:5500/index.html]
 
 ## Features
 - Live webcam in your browser
